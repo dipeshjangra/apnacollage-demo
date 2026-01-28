@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first repository
 <br>
-Author - Dipesh Jangra
+Author - Dipesh Jangra (apnacollage)
